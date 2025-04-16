@@ -102,6 +102,3 @@ A simple countdown timer application for New Year 2026.
 **Yash Umak**  
 - LinkedIn: [@yash-umak](https://www.linkedin.com/in/yash-umak-5242ab320/)  
 - GitHub: [@yashumak](https://github.com/yashumak)   
-
-## License
-This project is open source and available under the MIT License.
