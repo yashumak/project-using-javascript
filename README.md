@@ -87,15 +87,12 @@ A simple countdown timer application for New Year 2026.
 ```
 
 ## Getting Started
-1. Clone the repository "git clone https://github.com/yashumak/project-using-javascript.git"
-2. Open any project's HTML file in a modern web browser
-3. For the chatbot, you'll need to provide your own Gemini Pro API key in `chatbot.js`
-
-## Browser Support
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
+1. Clone the repository
+   ```bash
+   git clone https://github.com/yashumak/project-using-javascript.git
+   ```
+3. Open any project's HTML file in a Projects.
+4. For the chatbot, you'll need to provide your own Gemini Pro API key in `chatbot.js`
 
 ## 🖇️ Social Links
 
